@@ -14,12 +14,11 @@ This is a simple memory game, try to match every pair within the time limit to w
 
 ### Links
 
-- Live Site URL: [Live Site](https://sanramu93.github.io/memory_game/)
 
 ## Authors
 
-Santiago Ramírez
-[@sanramu93](https://gist.github.com/sanramu93)
+kwizera Alfred
+(https://gist.github.com/kwizera12)
 
 ## Version History
 
