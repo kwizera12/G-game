@@ -18,7 +18,7 @@ This is a simple memory game, try to match every pair within the time limit to w
 ## Authors
 
 kwizera Alfred
-(https://gist.github.com/kwizera12)
+(https://www.github.com/kwizera12)
 
 ## Version History
 
